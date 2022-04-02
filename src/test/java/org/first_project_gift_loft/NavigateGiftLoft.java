@@ -20,6 +20,7 @@ import com.sun.glass.events.KeyEvent;
 
 public class NavigateGiftLoft {	
 
+	
 	//the below method will launch the browser and return WebDriver
 	private static WebDriver launchBrowser()
 	{
